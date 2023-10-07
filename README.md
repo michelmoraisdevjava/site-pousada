@@ -1,4 +1,3 @@
----
 # Pousada Secreta
 Este é o repositório para o website da Pousada Secreta em Angra dos Reis, RJ. O projeto apresenta um site moderno e responsivo para uma pousada, construído com tecnologias web padrão, incluindo HTML, CSS e JavaScript.
 ## Tecnologias Utilizadas
@@ -11,4 +10,4 @@ Este é o repositório para o website da Pousada Secreta em Angra dos Reis, RJ. 
 - **Integração de Mapas:** Um mapa do Google Maps foi incorporado usando um iframe para mostrar a localização da pousada, proporcionando aos visitantes uma maneira fácil de encontrar o local.
 ## Como Contribuir
 Se você gostaria de contribuir para este projeto, sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias ou correções. Suas contribuições são bem-vindas!
----
+
