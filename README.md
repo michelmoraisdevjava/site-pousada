@@ -25,5 +25,3 @@ Este é o repositório para o website da Pousada Secreta em Angra dos Reis, RJ. 
 Se você gostaria de contribuir para este projeto, sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias ou correções. Suas contribuições são bem-vindas!
 
 ---
-
-Sinta-se à vontade para personalizar esta descrição conforme necessário para refletir melhor os detalhes específicos do seu projeto.
